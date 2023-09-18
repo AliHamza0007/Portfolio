@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70130cec.css",
+    "main.js": "/static/js/main.3f6a4ddd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile.gif": "/static/media/profile.f44409260d926ff02422.gif",
+    "static/media/banner.gif": "/static/media/banner.6028d8d55aa585f822ef.gif",
+    "static/media/Logo.gif": "/static/media/Logo.24471a6175bea72f876d.gif",
+    "static/media/linkedin.png": "/static/media/linkedin.01b57f269db4e7e04c97.png",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/portfolio.png": "/static/media/portfolio.70c06c84004a537a447f.png",
+    "static/media/7Ali_Hamza.pdf": "/static/media/7Ali_Hamza.d3cf05cf50e52ac66a87.pdf",
+    "index.html": "/index.html",
+    "main.70130cec.css.map": "/static/css/main.70130cec.css.map",
+    "main.3f6a4ddd.js.map": "/static/js/main.3f6a4ddd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70130cec.css",
+    "static/js/main.3f6a4ddd.js"
+  ]
+}
