@@ -1,0 +1,11 @@
+declare module 'react-reveal';
+declare module "react-reveal/RubberBand";
+declare module  "react-reveal/Fade";
+declare module  "react-reveal/Spin";
+declare module  "react-reveal/Rotate";
+declare module  "react-reveal/LightSpeed";
+declare module   "react-reveal/Tada";
+declare module   "react-scroll-to-top";
+declare module   "react-scroll";
+declare module   "react-router-dom";
+declare module  "react-animate-on-scroll";
