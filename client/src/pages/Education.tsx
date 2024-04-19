@@ -28,7 +28,7 @@ const Education:React.FC = () => {
           >
             <h3 className="h2 text-center">BSCS</h3>
             <h4 className="h4">
-              UNIVERSITY OF OKARA, IN
+              UNIVERSITY OF Education, IN
             </h4>
           </VerticalTimelineElement>
           <VerticalTimelineElement

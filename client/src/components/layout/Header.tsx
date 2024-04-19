@@ -12,7 +12,7 @@ function Header() {
     <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Home" className="navbar-brand h1">
+                    duration={2000} to="Home" className="navbar-brand h1">
                       <img src={Logo}   className="px-1 logo" alt="Portfolio"/> Ali Hamza
                       </Link>
     <button
@@ -32,43 +32,43 @@ function Header() {
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Home" className="nav-link active" aria-current="page" >Home</Link>
+                    duration={2000} to="Home" className="nav-link active" aria-current="page" >Home</Link>
         </li>
         <li className="nav-item">
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="About" className="nav-link">About</Link>
+                    duration={2000} to="About" className="nav-link">About</Link>
         </li>
         <li className="nav-item">
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Education" className="nav-link" >Education</Link>
+                    duration={2000} to="Education" className="nav-link" >Education</Link>
         </li>
         <li className="nav-item">
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Skills" className="nav-link" >Skills</Link>
+                    duration={2000} to="Skills" className="nav-link" >Skills</Link>
         </li>
         <li className="nav-item">
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Projects" className="nav-link" >Projects</Link>
+                    duration={2000} to="Projects" className="nav-link" >Projects</Link>
         </li>
         <li className="nav-item">
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Experience" className="nav-link" >Experience</Link>
+                    duration={2000} to="Experience" className="nav-link" >Experience</Link>
         </li>
         <li className="nav-item">
           <Link  spy={true}
                     smooth={true}
                     offset={-100}
-                    duration={100} to="Contact" className="nav-link" >Contact</Link>
+                    duration={2000} to="Contact" className="nav-link" >Contact</Link>
         </li>
       
       </ul>

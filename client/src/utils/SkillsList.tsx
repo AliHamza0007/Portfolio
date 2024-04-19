@@ -1,15 +1,16 @@
 import { BsFiletypeHtml, BsFiletypeCss, BsBootstrap } from "react-icons/bs";
-import { FaNodeJs } from "react-icons/fa";
+import { FaNodeJs } from "react-icons/fa";import { TbBrandReactNative } from "react-icons/tb";
+
 import {
   SiJavascript,
   SiMui,
   SiReact,
-
+  SiTailwindcss,
   SiMongodb,
   SiMysql,
   SiTypescript,
   SiGithub,
-
+  SiRedux ,
   SiExpress,
 
 } from "react-icons/si";
@@ -72,7 +73,7 @@ export const SkillsList = [
   },
   {
     _id: 11,
-    name: "SQL ",
+    name: "SQL",
     icon: SiMysql,
   },
 
@@ -80,6 +81,26 @@ export const SkillsList = [
     _id: 12,
     name: "Git / Github ",
     icon: SiGithub,
+  },
+  {
+    _id: 13,
+    name: "TailwindCSS ",
+    icon: SiTailwindcss,
+  },
+  {
+    _id: 14,
+    name: "ReactNative ",
+    icon: TbBrandReactNative,
+  },
+  {
+    _id: 15,
+    name: "NativeWind ",
+    icon: SiTailwindcss,
+  },
+  {
+    _id: 16,
+    name: "Redux ",
+    icon: SiRedux ,
   },
 
 ];
